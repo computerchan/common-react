@@ -1,0 +1,26 @@
+{
+  "name": "cc-common-react",
+  "version": "0.0.1",
+  "description": "Modules to bootstrap Computer Chan apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test --env=\"jsdom\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computerchan/common-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Amos Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/computerchan/common-react/issues"
+  },
+  "homepage": "https://github.com/computerchan/common-react#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest-fetch-mock": "^1.6.5"
+  }
+}
