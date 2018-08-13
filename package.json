@@ -19,7 +19,11 @@
     "url": "https://github.com/computerchan/common-react/issues"
   },
   "homepage": "https://github.com/computerchan/common-react#readme",
-  "dependencies": {},
+  "dependencies": {
+    "apollo-boost": "^0.1.13",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2"
+  },
   "devDependencies": {
     "jest-fetch-mock": "^1.6.5"
   }
